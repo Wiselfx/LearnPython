@@ -8,4 +8,5 @@ student_age=18
 print(student_age,type(student_age))
 
 score=92.5
-print(isinstance(score, int))
+print(score,type(score))
+print'is float?:',isinstance(score, float))
